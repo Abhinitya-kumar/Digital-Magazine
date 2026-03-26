@@ -1,3 +1,4 @@
 # Digital-Magazine
 The Digital Magazine Website is a modern frontend web application developed to provide users with an interactive and dynamic platform for reading articles across multiple categories such as Lifestyle, Business, Technology, Travel, Health, and Food. The main objective of this project is to create a responsive, user-friendly, and visually appealing interface that enhances the digital reading experience.
+
 The application is built using React.js, along with HTML, CSS, and JavaScript, enabling a component-based architecture for efficient development and scalability. React allows the website to dynamically render content, manage state effectively, and provide a seamless user experience without frequent page reloads.
